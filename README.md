@@ -2,7 +2,7 @@
 
 I'm currently a 4th year Computer Science major at Georgia Tech graduating in Dec 2024. 
 
-I enjoy cross fit, learning about analytical philosophy, and blockchain technologies. 
+I am passionate about cross fit, blockchain technologies, analytical philosophy, spending time with friends, and creating/engineering a better world. 
 
 
 <!--
