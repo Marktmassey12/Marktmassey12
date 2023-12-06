@@ -1,6 +1,8 @@
 ### Hi there I'm Mark 👋
 
 I'm currently a 4th year Computer Science major at Georgia Tech graduating in Dec 2024. 
+I enjoy cross fit, learning about analytical philosophy, and blockchain technologies. 
+
 
 <!--
 **Marktmassey12/Marktmassey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
