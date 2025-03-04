@@ -1,6 +1,6 @@
 ### Hi there I'm Mark 👋
 
-I'm currently a 4th year Computer Science major at Georgia Tech graduating in Dec 2024. 
+Georgia Tech
 
 I am passionate about blockchain technologies, philosophy, and creating/engineering a better world. 
 
